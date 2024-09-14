@@ -1,0 +1,22 @@
+html {
+    font-size: 20px;
+}
+
+body {
+    font-size: 20px;
+}
+
+.section {
+    height: 400px;
+}
+
+.square {
+    font-size: 10px;
+    background-color: blueviolet;
+    /* width: 200px;
+    height: 200px; */
+    /* width: 70%;
+    height: 50%; */
+    width: 100vw;
+    height: 50vh;
+}
